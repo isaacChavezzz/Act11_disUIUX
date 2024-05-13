@@ -21,3 +21,6 @@ Act 11 diseño UI/UX
 isaac Abel Chavez Nolasco
 resultado
 ![image](https://github.com/isaacChavezzz/Act11_disUIUX/assets/143744084/fc2c76e5-52e8-4a50-90e6-6962a72c6b00)
+![image](https://github.com/isaacChavezzz/Act11_disUIUX/assets/143744084/fcfd7ce5-3032-42a1-aa4f-25fff6cfbbf8)
+![image](https://github.com/isaacChavezzz/Act11_disUIUX/assets/143744084/0d123531-841a-4d67-bb08-bd47d1a5f7ca)
+
