@@ -17,3 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+Act 11 diseño UI/UX
+isaac Abel Chavez Nolasco
+resultado
+![image](https://github.com/isaacChavezzz/Act11_disUIUX/assets/143744084/fc2c76e5-52e8-4a50-90e6-6962a72c6b00)
